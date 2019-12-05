@@ -1,2 +1,2 @@
 # SpringbootOnPCF
-SpringBoot Demo application on PCF test
+SpringBoot Demo application on PCF
