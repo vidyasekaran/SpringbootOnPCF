@@ -3,7 +3,6 @@ jdk: openjdk8
 deploy:
   provider: cloudfoundry
   username: vidguru1008@gmail.com
-  password: @Oranges1974
   api: https://api.run.pivotal.io
   organization: 
   space: Development
